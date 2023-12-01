@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/DANIELE BUSER/Desktop/SlideCreatorVBA/slide-creator-vba/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/DANIELE BUSER/Desktop/SlideCreatorVBA/slide-creator-vba/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'slide-creator-vba 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'slide-creator-vba 1.0-SNAPSHOT API'
+com.slidecreatorvba
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\src\main\java = 1701335836536
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\allclasses-index.html = 1701438750348
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\allpackages-index.html = 1701438750349
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\copy.svg = 1701438750371
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\element-list = 1701438750306
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\help-doc.html = 1701438750368
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\index-all.html = 1701438750363
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\index.html = 1701438750366
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\jquery-ui.overrides.css = 1701438750379
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\member-search-index.js = 1701438750353
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\module-search-index.js = 1701438750350
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\overview-tree.html = 1701438750339
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\package-search-index.js = 1701438750351
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\script.js = 1701438750370
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\search-page.js = 1701438750374
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\search.html = 1701438750364
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\search.js = 1701438750373
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\stylesheet.css = 1701438750369
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\tag-search-index.js = 1701438750353
+C:\Users\DANIELE BUSER\Desktop\SlideCreatorVBA\slide-creator-vba\target\site\apidocs\type-search-index.js = 1701438750352

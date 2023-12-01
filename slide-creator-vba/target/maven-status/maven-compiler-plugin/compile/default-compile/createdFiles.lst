@@ -1,0 +1,9 @@
+com\slidecreatorvba\PowerPoint.class
+com\slidecreatorvba\HybridRank.class
+com\slidecreatorvba\Slide.class
+com\slidecreatorvba\FileInputHandler.class
+com\slidecreatorvba\PowerShellExecutor.class
+com\slidecreatorvba\FrequencyRank.class
+com\slidecreatorvba\SlideCreatorVBA.class
+com\slidecreatorvba\VBAAutomation.class
+com\slidecreatorvba\TextRank.class
